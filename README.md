@@ -1,5 +1,5 @@
 # WF-attack-project
-25-2 EWHA ML Course Project
+**25-2 EWHA ML Course Project**
 
 ## 1. Overview
 
@@ -66,7 +66,7 @@ data/raw/
     mon_standard.pkl
     unmon_standard10.pkl
 ```
-(These files are excluded due to size and policy restrictions.)  
+*These files are excluded due to size and policy restrictions.*  
 
 ### 4.2 Preprocessing
 Run :
